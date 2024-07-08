@@ -1,6 +1,6 @@
 ## 简单说明
-该工具衍生自：https://github.com/henryau53/xmind-crack-patch.git
-原版本存在无法保存文件等问题
+- 该工具衍生自：https://github.com/henryau53/xmind-crack-patch.git
+- 原版本存在无法保存文件等问题
 
 ## 环境搭建
 
